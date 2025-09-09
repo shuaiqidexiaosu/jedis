@@ -8,6 +8,13 @@
 [![codecov](https://codecov.io/gh/redis/jedis/branch/master/graph/badge.svg?token=pAstxAAjYo)](https://codecov.io/gh/redis/jedis)
 [![Discord](https://img.shields.io/discord/697882427875393627?style=flat-square)](https://discord.gg/redis)
 
+<p align="center">
+[ <b>En</b> |
+<a href="./docs/introduce/README_CN.md">中</a> 
+]
+<b>Jedis Documentation</b>
+</p>
+
 ## What is Jedis?
 
 Jedis is a Java client for [Redis](https://github.com/redis/redis "Redis") designed for performance and ease of use.
